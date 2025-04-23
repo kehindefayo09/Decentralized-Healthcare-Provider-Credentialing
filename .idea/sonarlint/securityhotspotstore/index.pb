@@ -7,3 +7,5 @@ M
 contracts/license-status.clar,1/1/110cde5e61bba1a42fc6cdd96a8166ac217d51ff
 R
 "tests/facility-privileging.test.ts,f/8/f82c87902aef658b81425f9de2c11f80d881abb5
+L
+tests/license-status.test.ts,1/1/1151ddba92c95ce81ac4d3fa3c2c8a9502dd59fa
