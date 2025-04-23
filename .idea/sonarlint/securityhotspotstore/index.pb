@@ -9,3 +9,7 @@ R
 "tests/facility-privileging.test.ts,f/8/f82c87902aef658b81425f9de2c11f80d881abb5
 L
 tests/license-status.test.ts,1/1/1151ddba92c95ce81ac4d3fa3c2c8a9502dd59fa
+P
+ contracts/provider-identity.clar,0/f/0fb2c13f958d21cb54a9453b7c747307e11c1271
+O
+tests/provider-identity.test.ts,5/d/5d40c3f8dce9e749332ceb23f6daba22d0d0030c
