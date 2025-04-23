@@ -13,3 +13,7 @@ P
  contracts/provider-identity.clar,0/f/0fb2c13f958d21cb54a9453b7c747307e11c1271
 O
 tests/provider-identity.test.ts,5/d/5d40c3f8dce9e749332ceb23f6daba22d0d0030c
+Y
+)contracts/qualification-verification.clar,3/0/304dbcf258ceda05728383920c765f07f210696e
+X
+(tests/qualification-verification.test.ts,0/7/07be8757a520aad1da589a9ed17f78d4c0d46139
